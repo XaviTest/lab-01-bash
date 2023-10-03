@@ -1,7 +1,7 @@
 Question 1: Open your terminal and start by displaying the current working directory.
 @XaviTest ➜ /workspaces/lab-01-bash (main) $ pwd
 /workspaces/lab-01-bash
-
+yyu
 Question 2: List all files and directories in your current directory.
 @XaviTest ➜ /workspaces/lab-01-bash (main) $ ls
 README.md  lab-01-follow-along.txt  lab-02-file-follow-along.txt  lab-02-follow-along-two.txt  new-folder
