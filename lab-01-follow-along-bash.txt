@@ -1,41 +1,57 @@
 Question 1: Open your terminal and start by displaying the current working directory.
-@XaviTest ➜ /workspaces/lab-01-bash (main) $ pwd
 /workspaces/lab-01-bash
-yyu
+
 Question 2: List all files and directories in your current directory.
-@XaviTest ➜ /workspaces/lab-01-bash (main) $ ls
-README.md  lab-01-follow-along.txt  lab-02-file-follow-along.txt  lab-02-follow-along-two.txt  new-folder
+README.md  bb1bd6_5798c09022ba43249a38bfea9be1db34~mv2.png  lab-01-follow-along-bash.txt  newnamefile.txt
 
 Question 3: Navigate to your home directory.
+cd ~
 
 Question 4: Create a new directory named "documents" in your home directory.
+mkdir documents
 
 Question 5: Change your current directory to the "documents" directory.
+cd documents/
 
 Question 6: Create a new file named "report.txt" in the "documents" directory.
+touch report.txt
 
 Question 7: Display the contents of the "report.txt" file.
+cat report.txt
 
 Question 8: Append the text "This is a sample report." to the "report.txt" file.
+echo "this is a sample report" >> report.txt
 
 Question 9: List all files and directories in the "documents" directory.
+ls -a
 
 Question 10: Rename the "report.txt" file to "monthly_report.txt" within the "documents" directory.
+mv report.txt monthly_report.txt
 
 Question 12: Move the "monthly_report.txt" file into the "backup" directory.
+mkdir backup
+mv monthly_report.txt backup/
 
 Question 13: Change your current directory back to your home directory.
+cd ~
 
 Question 14: Display the full path to the "backup" directory.
+moved into the back up directory and typed pwd.
+/home/codespace/documents/backup
 
 Question 15: List all files and directories in the "backup" directory using an absolute path.
+ls ~/documents/backup/
 
 Question 16: Delete the "backup" directory and its contents.
+rm -r /home/codespace/documents/backup
 
 Question 17: Search for all files in your home directory that contain the word "important."
+we did not go over it.
 
 Question 18: Display the first 5 lines of the "monthly_report.txt" file.
+we cannot be cause we deleted it or it doesn't exist anymore.
 
 Question 19: Count the number of files and directories in your home directory.
+we did not go over it.
 
 Question 20: Logout of your current terminal session.
