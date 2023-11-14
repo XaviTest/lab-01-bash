@@ -1,17 +1,16 @@
-Question 1: Open your terminal and start by displaying the current working directory.
-/workspaces/lab-01-bash
-
+iion 1: Open your terminal and start dhgdfghdfghdfghy displaying the current working directory.
+sadfdfdjkdsaksdfasfddsfs
 Question 2: List all files and directories in your current directory.
 README.md  bb1bd6_5798c09022ba43249a38bfea9be1db34~mv2.png  lab-01-follow-along-bash.txt  newnamefile.txt
 
 Question 3: Navigate to your home directory.
-cd ~
+cd ~ I navigated.
 
 Question 4: Create a new directory named "documents" in your home directory.
-mkdir documents
+asdfsdfmkdir documents
 
-Question 5: Change your current directory to the "documents" directory.
-cd documents/
+Questiosdafsdfn 5: Change your current directory to the "documents" directory.
+cd documents/sd
 
 Question 6: Create a new file named "report.txt" in the "documents" directory.
 touch report.txt
